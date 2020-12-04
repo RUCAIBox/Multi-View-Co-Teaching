@@ -1,0 +1,37 @@
+{
+    "token": "APJFNN-JRMPM-dim32",
+    "dataset": {
+        "path": "/home/houyupeng/dataset/JRMPM",
+        "max_sent_num": {
+            "geek": 20,
+            "job": 20
+        },
+        "max_sent_len": {
+            "geek": 50,
+            "job": 50
+        }
+    },
+    "train": {
+        "batch_size": 32,
+        "num_workers": 4,
+        "lr": 3e-4,
+        "weight_dacay": 1e-5
+    },
+    "valid": {
+        "batch_size": 512,
+        "num_workers": 4
+    },
+    "test": {
+        "batch_size": 512,
+        "num_workers": 4
+    },
+    "model": {
+        "LSTM_hidden_dim": 32,
+        "word_num": 90002,
+        "dim": 32
+    },
+    "gpu": 1,
+    "num_epochs": 200,
+    "saved_path": "/home/houyupeng/pjf/APJFNN/saved",
+    "end_step": 5
+}
