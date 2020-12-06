@@ -4,12 +4,12 @@ This repository contains the source code for the CIKM 2020 paper **Learning to M
 
 ## Directory
 
-- [Motivations](https://github.com/RUCAIBox/Multi-View-Co-Teaching#Motivations)
-- [Datasets](https://github.com/RUCAIBox/Multi-View-Co-Teaching#Datasets)
-- [Download and Usage](https://github.com/Multi-View-Co-Teaching#Download)
-- [Licence](https://github.com/RUCAIBox/Multi-View-Co-Teaching#Licence)
-- [References](https://github.com/RUCAIBox/Multi-View-Co-Teaching#References)
-- [Additional Notes](https://github.com/RUCAIBox/Multi-View-Co-Teaching#Addition)
+- [Motivations](https://github.com/RUCAIBox/Multi-View-Co-Teaching/blob/master/README.md#Motivations)
+- [Datasets](https://github.com/RUCAIBox/Multi-View-Co-Teaching/blob/master/README.md#Datasets)
+- [Download and Usage](https://github.com/Multi-View-Co-Teaching/blob/master/README.md#Download)
+- [Licence](https://github.com/RUCAIBox/Multi-View-Co-Teaching/blob/master/README.md#Licence)
+- [References](https://github.com/RUCAIBox/Multi-View-Co-Teaching/blob/master/README.md#References)
+- [Additional Notes](https://github.com/RUCAIBox/Multi-View-Co-Teaching/blob/master/README.md#Addition)
 
 ## Motivations
 
